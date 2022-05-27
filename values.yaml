@@ -19,7 +19,7 @@ serviceAccount:
 
 image:
   repository: registry
-  tag: 2.7.1
+  tag: latest
   pullPolicy: IfNotPresent
 # imagePullSecrets:
     # - name: docker
